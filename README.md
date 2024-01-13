@@ -22,17 +22,16 @@ The Recipe Explorer App is compatible with any Android device.
 ## Technologies Used
 ### 1. Programming Languages
 #### Java
-Java is the primary programming language used for Android app development. It offers versatility and platform independence, allowing the app to run on various devices without recompilation.
 **Java Version Used:** 17.0.2
 
 ### 2. Development Environment
 #### Android Studio
-Android Studio serves as the official integrated development environment (IDE) for Android app development. It provides tools for designing, testing, debugging, and publishing Android applications.
+Android Studio serves as the official integrated development environment (IDE) for Android app development. 
 **Android Studio Version Used:** Bumblebee
 
 ### 3. Backend and Database
 #### Firebase
-Firebase is utilized for backend services, including authentication and real-time database functionalities. It facilitates seamless user authentication and data synchronization across devices.
+Firebase is utilized for backend services, including authentication and real-time database functionalities. 
 
 ### 4. API
 #### Spoonacular API
@@ -40,13 +39,13 @@ The Spoonacular API is employed to retrieve extensive information about recipes,
 
 ### 5. Libraries
 #### Volley
-Volley is an HTTP library that simplifies networking in Android apps. It manages network requests, caches data, and enhances the overall efficiency of the application.
+[Volley](https://google.github.io/volley/) is an HTTP library that simplifies networking in Android apps. It manages network requests, caches data, and enhances the overall efficiency of the application.
 #### Picasso
-Picasso is used for hassle-free image loading within the app, ensuring a smooth user experience. It supports complex image transformations with minimal memory usage.
+[Picasso](https://square.github.io/picasso/) is used for hassle-free image loading within the app, ensuring a smooth user experience. It supports complex image transformations with minimal memory usage.
 #### Gson
-Gson facilitates the conversion of Java Objects into JSON representation and vice versa. It is employed for efficient data handling within the app.
+[Gson](https://github.com/google/gson) facilitates the conversion of Java Objects into JSON representation and vice versa. It is employed for efficient data handling within the app.
 #### RecyclerView Decorator
-RecyclerView Decorator is a utility class used to enhance the visual appearance of RecyclerView items during swiping actions.
+[RecyclerView Decorator](https://github.com/xabaras/RecyclerViewSwipeDecorator) is a utility class used to enhance the visual appearance of RecyclerView items during swiping actions.
 
 ## Getting Started
 
@@ -60,7 +59,7 @@ To run the Recipe Explorer App, follow these steps:
 **Note:** Ensure that you have the required API keys for Spoonacular to access recipe information.
 
 ### Screenshots
-<img src="https://github.com/dididip/Season-App/blob/main/Screenshots/homeActivity.png" width="300" height= "550">
+<img src="https://github.com/dididip/Season-App/blob/main/Screenshots/homeActivity.png" width="300" height= "600">
 Find more images of the app in the screenshot folder of repo.
 <br/><br/>
 Feel free to explore the code and Happy Coding!

@@ -61,7 +61,7 @@ To run the Recipe Explorer App, follow these steps:
 
 ### Screenshots
 
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
+![Screenshot 1](https://github.com/dididip/Season-App/blob/main/Screenshots/homeActivity.png)
+![Screenshot 2](https://github.com/dididip/Season-App/blob/main/Screenshots/searchRecipe2.png)
 
 Feel free to explore the code and Happy Coding!

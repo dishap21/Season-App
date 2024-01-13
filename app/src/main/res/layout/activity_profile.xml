@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.ProfileActivity"
+    android:background="@color/light_white">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="109dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/full_round_corners"
+        android:contentDescription="@string/user_profile_picture"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_baseline_person_outline_24"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/user_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="@string/user_name"
+        android:textSize="24sp"
+        android:textColor="@color/dark_black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton" />
+
+    <TextView
+        android:id="@+id/user_emailId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/dark_black"
+        android:layout_marginTop="8dp"
+        android:text="@string/user_email_id"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_username" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/aboutUs"
+        android:layout_width="313dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="75dp"
+        android:clickable="true"
+        android:paddingTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_emailId">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="13dp"
+            android:text="@string/about_us_title"
+            android:textColor="@color/dark_black"
+            android:textSize="18sp"
+            app:drawableEndCompat="@drawable/ic_baseline_keyboard_arrow_right_24"
+            app:drawableStartCompat="@drawable/ic_baseline_emoji_people_24" />
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/logOut"
+        android:layout_width="313dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="32dp"
+        android:paddingTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:clickable="true"
+        app:layout_constraintTop_toBottomOf="@+id/aboutUs">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:paddingTop="13dp"
+            android:textColor="@color/dark_black"
+            android:gravity="center"
+            android:text="@string/log_out"
+            app:drawableStartCompat="@drawable/ic_baseline_login_24"
+            app:drawableEndCompat="@drawable/ic_baseline_keyboard_arrow_right_24" />
+
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

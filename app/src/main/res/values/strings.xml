@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Season</string>
+    <string name="fav">Bookmarks</string>
+    <string name="my_create"><u>Create.</u></string>
+    <string name="my_signIn"><u>Log In.</u></string>
+    <string name="hun">Want to eat?..</string>
+    <string name="search_button">searchButtonForRecipes</string>
+    <string name="empty">Bookmarks are empty</string>
+    <string name="about_us"> Season is a app made for providing premium food content for people to enjoy.\nAll the recipes are developed by home-chefs who post the recipes through various internet medium and is made available with the help of <i>Spoonacular API</i>.\nThe nearly 5000 recipes will surely make your cooking experience amazing.\nUsers can find, save and share their favourite recipes from any website to save time and money.\nWith a deep understanding of food and user preferences, we can offer powerful, data-driven tools to build lasting customer relationships and drive sales and revenue at scale.
+    </string>
+    <string name="term_con">These user terms are referred to in them as:\nYour access to and use of our services through Your Account with us, all functionality on our Site, applications, buttons, browser plugins, application programming interfaces, and accessing functionality on third parties who have integrated them into their experiences.\nThe rules that apply to any recipes or other information, text, graphics, photos or other materials or content available on the Season.\n\n<b>Duties and Rights of Users</b>\nThe data required for registration must be provided truthfully and updated immediately if it changes to ensure smooth use.\nYou are responsible for protecting your registration and access data (e.g., user name, password) and you should not disclose them or tolerate or enable unauthorized or third parties to find them out. You are obliged to take the required measures to guarantee confidentiality.\nAs part of the community functions you have the option to set up your own content in your profile (e.g., personal information, profile picture) and the database of Season content (e.g., recipes).\nThe user may not decompile the App or otherwise reverse engineer it or try to find out the source code. An exception to this are actions that are necessary to obtain interface information required to ensure interoperability of the App with third-party software; this requires that the user has previously made unsuccessful attempts to find out such information.\nChanges to the Terms of Use Season may change and adapt these Terms of Use for the use of community functions effective for the future, if this is necessitated by changes in the legal and economic general conditions. Season will send the amended Terms of Use to the user at least six weeks before the planned entry into effect per e-mail and point out especially the new provision. At the same time, Season will set a reasonable period of at least six weeks for the user to declare the acceptance of the amended Terms of Use for the further use of services. If no declaration of acceptance is made within this period, since the receipt of the information, the amended Terms of Use will be considered accepted.\n\n\n\n<b>Updated in:</b> September 2022
+    </string>
+    <string name="terms">Terms</string>
+    <string name="about_us1">About Us</string>
+    <string name="infoby">Information by: Spoonacular API</string>
+    <string name="madeBy">Created By: Disha</string>
+    <string name="user_profile_picture">User profile picture</string>
+    <string name="user_name">User name</string>
+    <string name="user_email_id">User Email Id</string>
+    <string name="about_us_title">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="season">Season</string>
+</resources>

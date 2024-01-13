@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446532547145",
+    "project_id": "seasonapp-6dd0c",
+    "storage_bucket": "seasonapp-6dd0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446532547145:android:f3155fbd7c111da6198598",
+        "android_client_info": {
+          "package_name": "com.dishap.seasonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446532547145-kkid65r82bi364j2prtqnn1a12oi6i32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6aFbL6t51_FNLyQkKuQERE2QpbW3oTnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446532547145-kkid65r82bi364j2prtqnn1a12oi6i32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

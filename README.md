@@ -1,6 +1,6 @@
 # Season-App
 
-![App Logo](https://github.com/dididip/Season-App/blob/c979e1c6738825d1976cd5e19a8fe386dd0bb3c4/app/src/main/res/drawable/splashscreen.jpg)
+![App Logo](https://github.com/dididip/Season-App/blob/main/Screenshots/season%20app%20logo.png)
 
 ## Overview
 The Season App is a user-friendly Android application designed for food enthusiasts, offering a convenient platform to access a vast collection of recipes from around the world. This app aims to streamline the process of finding and exploring diverse food recipes, eliminating the need for traditional methods such as index cards or paper-based cookbooks.
@@ -60,8 +60,6 @@ To run the Recipe Explorer App, follow these steps:
 **Note:** Ensure that you have the required API keys for Spoonacular to access recipe information.
 
 ### Screenshots
-
-![Screenshot 1](https://github.com/dididip/Season-App/blob/main/Screenshots/homeActivity.png)
-![Screenshot 2](https://github.com/dididip/Season-App/blob/main/Screenshots/searchRecipe2.png)
+<img src="https://github.com/dididip/Season-App/blob/main/Screenshots/homeActivity.png" width="300" height= "550">
 
 Feel free to explore the code and Happy Coding!
